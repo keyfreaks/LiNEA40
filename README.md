@@ -24,7 +24,7 @@ LiNEA40は1Uトラックボール搭載の薄型軽量キーボードキット�
 
 ### 3. ファームウェアビルド
 1. 自分のリポジトリで `Actions` タブを開く
-2. ワークフローの実行を確認
+2. .github/workflows/build.yml を選択し、ワークフローを実行(run workflowボタンをクリック)
 3. 完了後、`Artifacts` のfirmwareをクリックしてzipファイルをダウンロード
 4. ダウンロードしたfirmware.zipを解凍してUF2ファイルを取得
 
